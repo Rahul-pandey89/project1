@@ -18,3 +18,4 @@ spec:
       - name: nginx
         image: Rahul-pandey89/project2
         ports:
+        - containerPort: 80
